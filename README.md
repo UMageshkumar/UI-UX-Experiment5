@@ -27,7 +27,7 @@ To explore two distinct UX project scenarios by identifying user pain points, wr
 - Based on either real data (if available) or assumed target users, create two personas per project.
 
 ## OUTPUT
-  [UX Project Scenario 1_SIBHIRAAJ (1).pdf](https://github.com/user-attachments/files/20504730/UX.Project.Scenario.1_SIBHIRAAJ.1.pdf)
+[UX.Project.Scenario.pdf](https://github.com/user-attachments/files/20541191/UX.Project.Scenario.pdf)
 
 ## RESULT
 
